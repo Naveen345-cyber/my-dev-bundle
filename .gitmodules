@@ -1,0 +1,27 @@
+[submodule "repos/ponytail"]
+	path = repos/ponytail
+	url = https://github.com/DietrichGebert/ponytail.git
+[submodule "repos/onyx"]
+	path = repos/onyx
+	url = https://github.com/onyx-dot-app/onyx.git
+[submodule "repos/Scrapling"]
+	path = repos/Scrapling
+	url = https://github.com/D4Vinci/Scrapling.git
+[submodule "repos/diagram-design"]
+	path = repos/diagram-design
+	url = https://github.com/cathrynlavery/diagram-design.git
+[submodule "repos/ui-ux-pro-max"]
+	path = repos/ui-ux-pro-max
+	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+[submodule "skills/hallmark"]
+	path = skills/hallmark
+	url = https://github.com/Nutlope/hallmark.git
+[submodule "skills/humanizer"]
+	path = skills/humanizer
+	url = https://github.com/blader/humanizer.git
+[submodule "skills/impeccable"]
+	path = skills/impeccable
+	url = https://github.com/pbakaus/impeccable.git
+[submodule "skills/last30days-skill"]
+	path = skills/last30days-skill
+	url = https://github.com/mvanhorn/last30days-skill.git
